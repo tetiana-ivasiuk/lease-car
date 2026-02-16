@@ -1,5 +1,10 @@
 # Lease Car Landing Page
 
+🔗 **Live Demo:**  
+https://tetiana-ivasiuk.github.io/lease-car/
+
+![Project Screenshot](screenshot.png)
+
 Responsive landing page for a car leasing service.
 
 ## 🔹 Features
